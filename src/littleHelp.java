@@ -98,7 +98,7 @@ aid.close();
 
             System.out.println("¿Quieres escuchar otro sonido? s/n");
             answer=sound.nextLine().toLowerCase();
-    }while (answer.equals("s")); //Poner una condición en el ciclo para que se repita o no
+    }while (answer.equals("s")); //Poner una condición en el ciclo para que se repita, o no
 
 
 
